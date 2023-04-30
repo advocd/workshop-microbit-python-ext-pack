@@ -3,6 +3,18 @@
 In this repository the extension pack for Microsoft VS code is maintained which is used for the Microbit Python workshop.
 You find the workshop here: [Workshop-Microbit-Python](https://github.com/advocd/Workshop-Microbit-Python)
 
+## Howto install
+
+a) Download the extension pack: see link below
+
+
+
+b) Install vsix file in Microsoft VS Code: 
+
+1. Extension 
+2. View and More
+3. Install from VSIX
+
 ---
 
 ## Version 0.0.1 
