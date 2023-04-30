@@ -1,0 +1,22 @@
+{
+  "name": "workshop-microbit-python-ext-pack",
+  "displayName": "workshop-microbit-python-ext-pack",
+  "publisher": "advocd",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-python.python",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "ms-python.isort",
+    "MAKinteract.micro-bit-python",
+    "ms-vscode.vscode-serial-monitor",
+    "yzhang.markdown-all-in-one",
+    "tomoki1207.pdf"
+  ]
+}
